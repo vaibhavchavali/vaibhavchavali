@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vaibhavchavali
+- 👀 I’m interested in Digital Signal Processing, Acoustics and Array Sig. Proc., Statistical Sig. Proc., Sparse processing, Random Matrix Theory
+- 🌱 I’m currently learning Random Matrix Theory, AI/ML, so much more 
+- 💞️ I’m looking to collaborate on anything and everything that deals with signals and systems, large matrices, PCA, everything.
+- 📫 How to reach me - best is via email - vaibhavchavali@gmail.com
